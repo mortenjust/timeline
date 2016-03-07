@@ -1,15 +1,13 @@
-2012
-* Best new apps, techcrunch
+2013
+Main trend: 3D printing and card streams
 
-Still around
+2012
 * Google Maps for iOS
 * Khan
 * Songza
 * Clear
 * Pocket
 * Paper
-
-Big, then dead
 * Highlight
 
 2011
@@ -20,14 +18,16 @@ Big, then dead
 * Google Translate
 * Tripit
 
-
 2010
+Main trend: Streams
+
 * Instagram
 * Flipboard
 * Plants vs Zombies
 * Word Lens
 
 2009
+Main trend: Augmented reality
 * Fandango
 * Google iPhone App
 * Angry Birds
