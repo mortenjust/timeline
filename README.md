@@ -1,7 +1,8 @@
-2013
+## 2013
+
 Main trend: 3D printing and card streams
 
-2012
+## 2012
 * Google Maps for iOS
 * Khan
 * Songza
@@ -10,7 +11,7 @@ Main trend: 3D printing and card streams
 * Paper
 * Highlight
 
-2011
+## 2011
 * Square
 * HBO Go
 * IMDb
@@ -18,7 +19,7 @@ Main trend: 3D printing and card streams
 * Google Translate
 * Tripit
 
-2010
+## 2010
 Main trend: Streams
 
 * Instagram
@@ -26,7 +27,7 @@ Main trend: Streams
 * Plants vs Zombies
 * Word Lens
 
-2009
+## 2009
 Main trend: Augmented reality
 * Fandango
 * Google iPhone App
@@ -36,7 +37,7 @@ Main trend: Augmented reality
 * Foursquare
 * I am T-Pain
 
-2008
+## 2008
 * Facebook iPhone app
 * Evernote
 * Github
@@ -44,7 +45,7 @@ Main trend: Augmented reality
 * Chrome
 * Groupon
 
-2007
+## 2007
 * Joost
 * Hulu
 * Mint
@@ -53,7 +54,7 @@ Main trend: Augmented reality
 * Netflix streaming
 * Ustream
 
-2006
+## 2006
 * Parallels
 * Google Reader
 * Google Calendar
@@ -62,7 +63,7 @@ Main trend: Augmented reality
 * OpenDNS
 * Foxmarks
 
-2005
+## 2005
 * Google Earth
 * Soundhound
 * Gmail
@@ -70,45 +71,44 @@ Main trend: Augmented reality
 * Google Maps
 * 3D Printing
 
-
-2004
+## 2004
 * iTunes Music Store
 * Engadget
 * Flickr
 * Facebook 
 
-2003
+## 2003
 * Movable Type
 * Bloglines
 * Meetup
 * Quicksilver
 
-2002
+## 2002
 * Google News
 * TuneIn
 
-2001
+## 2001
 * Wikipedia
 * iTunes
 
-2000
+## 2000
 * Pandora internet radio
 
-1999
+## 1999
 * Metacritic
 * Shazam
 * LiveJournal
 
-1998
+## 1998
 * Google
 * Paypal
 * Rotten Tomatoes
 * The Onion
 
-1995
+## 1995
 * Ebay
 * Craigslist
 * Audible
 
-1994
+## 1994
 * Amazon
