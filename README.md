@@ -82,6 +82,7 @@ Main trend: Augmented reality
 * Bloglines
 * Meetup
 * Quicksilver
+* Myspace
 
 ## 2002
 * Google News
